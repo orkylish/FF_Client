@@ -1,0 +1,75 @@
+== application started at Apr 11 2020 18:12:04
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:231: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:231: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+Exiting application..
+== application started at Apr 11 2020 18:13:07
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:231: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:231: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+Exiting application..
+== application started at Apr 11 2020 18:13:17
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:231: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:231: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+Exiting application..
+== application started at Apr 11 2020 18:13:25
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+FATAL ERROR: Unable to add modules directory to the search path.
+== application started at Apr 11 2020 18:13:49
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:231: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:231: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+Exiting application..
+== application started at Apr 11 2020 18:15:09
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:231: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:231: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+Exiting application..
+== application started at Apr 11 2020 18:17:26
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+Startup done :]
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:231: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:231: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+Exiting application..
+== application started at Apr 11 2020 19:29:10
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+Startup done :]
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:231: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:231: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+Exiting application..
